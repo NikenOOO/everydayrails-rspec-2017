@@ -26,3 +26,9 @@ more about Git, I recommend the free resources [Git Immersion] or [Try Git].
 [Everyday Rails Testing with RSpec]: https://leanpub.com/everydayrailsrspec
 [Git Immersion]: http://gitimmersion.com/
 [Try Git]: http://www.codeschool.com/courses/try-git
+
+ # Forked repository
+ 
+ This is forked repository from [everyday-rails](https://github.com/everydayrails/everydayrails-rspec-2017).
+ For using Docker, I forked.
+ I'm glad if you can use it as a reference
